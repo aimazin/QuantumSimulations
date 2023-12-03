@@ -17,7 +17,7 @@ Or in Azure Cloud
 
 My interst in Quantum Computing
 
+## License
 
-## Licence
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-I authorize any none malicious use of this code
